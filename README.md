@@ -6,3 +6,10 @@ I have acquired quite a number of skills ranging from Excel to SQL and now to
 portfolio building.
 
 ##PROJCET OVERVIEW
+- EXCEL [Download Here](https.//www.microsoft.com)
+- - FOR DATA COLLECTION
+  - FOR DATA CLEANING
+- SQL
+- - FOR ANALYSIS
+  - GO
+- POWER BI
