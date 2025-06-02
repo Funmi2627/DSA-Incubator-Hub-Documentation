@@ -6,7 +6,7 @@ I have acquired quite a number of skills ranging from Excel to SQL and now to
 portfolio building.
 
 ##PROJCET OVERVIEW
-- EXCEL [Download Here](https.//www.microsoft.com)
+- EXCEL [Download Here](https://www.microsoft.com/en-ng/)
 - - FOR DATA COLLECTION
   - FOR DATA CLEANING
 - SQL
